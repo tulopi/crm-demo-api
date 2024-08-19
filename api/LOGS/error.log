@@ -2015,3 +2015,8 @@
     at new Promise (<anonymous>) {
   status: 400
 }
+[2024-08-19T11:44:18.421] [ERROR] error - Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+[2024-08-19T11:44:18.424] [ERROR] error - Error al conectar con la base de datos MongoDB: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+[2024-08-19T11:47:28.544] [ERROR] error - Error al conectar con la base de datos MongoDB: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+[2024-08-19T11:48:09.465] [ERROR] error - Error al conectar con la base de datos MongoDB: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+[2024-08-19T11:50:16.097] [ERROR] error - Error al conectar con la base de datos MongoDB: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
